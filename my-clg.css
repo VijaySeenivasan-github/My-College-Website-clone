@@ -1,0 +1,142 @@
+.top {
+    background-color: rgb(0,48,91);
+}
+.top-left {
+	justify-content:around ;
+	gap :50px ;
+   }
+
+.logo {
+    width: 75px;
+    height:150px;
+    
+}
+.clgname-tam {
+    height:100px ;
+    padding-left: 20px;
+}
+
+.clghead-1 {
+    background-color: rgb(0,32,73);
+    padding-right: 200px;
+    border-right: 5px solid yellow;
+	width:40%;
+	flex-wrap: wrap;
+}
+
+.clg-head-2 {
+    background-color: rgb(243,243,245);
+    padding-left: 520px;
+	width:60%;
+}
+.pop-up-semester {
+    color: white;
+    border: 1px solid darkblue;
+    background-color: rgb(0,32,73);
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: -10px;
+    padding: 5px;
+}
+
+.clg-head {
+    justify-content: space-between;
+    width:100vw;
+    width:auto;
+	flex-wrap: column wrap ;
+}
+
+.droplist {
+    color: rgb(0,48,91);
+    font-weight: 500;
+    background-color: white;
+    border : none ;
+	border-color:white ;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 10px;
+}
+
+.nav-ulist {
+	margin:0;
+	
+	diplay: flex;
+	list-style-type: none ;
+	justify-content: around;
+}
+
+.nav-list {
+	justify-content: around;
+	margin-right: 500 px;
+	border: none solid white;
+   
+}
+
+.nav-item {
+ text-decoration: none;
+ color : white; 
+	
+}
+.images {
+  margin:0; 
+    
+}
+
+.ptn1 {
+
+    background-color: orange;
+ }
+
+.ptn2 {
+    background-color: rgb(0,32,73);
+    color: white;
+}
+
+.quo {
+    width:2300px;
+}
+
+.date-thought{
+    border : 5px solid rgb(153,51,0);
+    postion:inline-block;
+    
+}
+
+.vission-announce-mile {
+ background-color: rgb(221,219,211);
+ margin; 50px ;
+ height: 50px ;
+ font-stretch: expanded;
+ text-align: center;
+ 
+
+}
+
+.event-border {
+	border : 1px solid rgb(221,219,211) ;
+	
+}
+
+.event-scroll {
+	text-decoration: none ;
+	color: navy;
+    padding: 10px ;	
+	
+}
+
+.down-icons {
+	width:100px ;
+}
+
+.carousel-bg {
+	background-color: rgb(123,123,123);
+
+}
+.hide {
+ display: none ;
+}
+.map {
+	float: left;
+	padding-left:-50px;
+}
